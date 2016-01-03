@@ -1,29 +1,41 @@
-name: "Mark's Diary"
-favicon: null
-layout_spectrum: 0.24879
-typography_spectrum: 0.09883
 title: "Mark's Diary"
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3421594284009188
+  lightness: 0.4545169754419476
+  brandStrength: 0.4265233
+  brandColors:
+    - '#171415'
+    - '#D8C9B2'
+    - '#FFFFFB'
+    - '#4A413A'
+    - '#7F6F5C'
+  rhythmicContrast: 0.193979577627033
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-55878969-2
   facebook: null
-  twitter: null
+favicon: null
+name: "Mark's Diary"
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.057590052019804716
-  lightness: 0.4545169754419476
-  saturation: 0.34215942840091884
-  rhythmicContrast: 0.193979577627033
-purpose: []
+typography_spectrum: 0.09883
+layout_spectrum: 0.24879
