@@ -2,12 +2,13 @@ name: "Mark's Diary"
 favicon: null
 layout_spectrum: 0.01590505405329168
 typography_spectrum: 0.6215230610687286
+title: "Mark's Diary"
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-55878969-2
   facebook: null
   twitter: null
 opengraph:
