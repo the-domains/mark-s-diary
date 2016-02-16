@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3421594284009188
-  lightness: 0.4545169754419476
   brandStrength: 0.4265233
+  rhythmicContrast: 0.193979577627033
   brandColors:
     - '#171415'
     - '#D8C9B2'
     - '#FFFFFB'
     - '#4A413A'
     - '#7F6F5C'
-  rhythmicContrast: 0.193979577627033
+  lightness: 0.4545169754419476
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: UA-55878969-2
   facebook: null
-favicon: null
 name: "Mark's Diary"
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.09883
-layout_spectrum: 0.24879
+typography_spectrum: 0.5179211
+layout_spectrum: 0.1505376
